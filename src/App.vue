@@ -1,8 +1,10 @@
 <template>
-  <Top />
-  <Features />
-  <Action />
-  <Bottom />
+  <div>
+    <Top />
+    <Features />
+    <Action />
+    <Bottom />
+  </div>
 </template>
 
 <script>
